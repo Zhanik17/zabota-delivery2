@@ -1,4 +1,6 @@
-#<!DOCTYPE html>
+
+
+<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -81,4 +83,4 @@
   </script>
 </body>
 </html>
- zabota-delivery2
+
